@@ -1,0 +1,7 @@
+# some stuff to ignore in git :
+venv/
+.idea
+db.sqlite3
+geotest/migrations
+world/migrations
+manage.py
